@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: frankiesardo/pedestal-swagger:0.3.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/repository/frankiesardo/pedestal-swagger/0.3.0/pedestal-swagger-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
